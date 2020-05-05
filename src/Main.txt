@@ -1,0 +1,6 @@
+Compiled from "Main.java"
+public class Main {
+  public Main();
+  public static void main(java.lang.String[]);
+  public static int math();
+}
